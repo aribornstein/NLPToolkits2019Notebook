@@ -4,7 +4,7 @@
 
 Here are my favorite NLP toolkits, you can start experimenting with them and Azure Notebooks.
 
-The [Azure Notebook Service](https://docs.microsoft.com/en-us/azure/notebooks/?WT.mc_id=azuremedium-blog-abornst) offers free interactive computing and project management in the browser it can be linked to remote GPU DSVM compute using an Azure Subscription. I've included an open source notebook that contains installation instructions and examples of some of my favorite features of each of these toolkits.
+The [Azure Notebook Service](https://docs.microsoft.com/azure/notebooks/?WT.mc_id=aiml-0000-abornst) offers free interactive computing and project management in the browser it can be linked to remote GPU DSVM compute using an Azure Subscription. I've included an open source notebook that contains installation instructions and examples of some of my favorite features of each of these toolkits.
 
 If you have any questions, comments, or topics you would like me to discuss feel free to follow me on Twitter if there is a tool you feel I missed, please let me know in the comments below.
 
